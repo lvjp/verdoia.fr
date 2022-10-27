@@ -1,0 +1,10 @@
+# Downloaded from https://github.com/github/gitignore/blob/e65111c61888c36dabf07c6834959d736aa04291/community/Golang/Hugo.gitignore
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock

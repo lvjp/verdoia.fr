@@ -1,0 +1,4 @@
+baseURL = 'http://lvjp.github.io/verdoia.fr/'
+languageCode = 'fr-fr'
+title = 'Union des Familles Verdoïa dans le Monde'
+theme = "ananke"
